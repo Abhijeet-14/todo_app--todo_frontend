@@ -1,10 +1,10 @@
 
-const HomePage = () = {
+const SimpleComponents = () => {
     return (
         <div>
-            <p>This is News</p>
+            <p>This is Simple Component</p>
         </div>
     )
 }
 
-export default HomePage;
+export default SimpleComponents;
